@@ -58,7 +58,6 @@ class Token:
             
             if self.text[i] in NUMEROS:
                 token = self.text[i]
-              
             
             
             self.posicao += 1
